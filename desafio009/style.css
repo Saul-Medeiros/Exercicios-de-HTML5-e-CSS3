@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font: normal 14pt Arial;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+p a {
+    color: white;
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
